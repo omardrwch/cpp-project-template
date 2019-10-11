@@ -13,7 +13,7 @@ make
 cd ..
 ```
 
-To run (from `build` folder):
+To run:
 
 ```
 ./build/app/subapp1
