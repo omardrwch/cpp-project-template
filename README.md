@@ -25,5 +25,5 @@ To run:
 Other scripts:
 
 * `compile.sh`: run commands to compile
-* `clean.sh`: deletes all contents of build folder
+* `clean.sh`: delete all files in build folder
 * `run_tests.sh`: run unit tests
