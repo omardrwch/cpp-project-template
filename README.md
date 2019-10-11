@@ -2,6 +2,7 @@
 
 * `lib`: folder containing a library, with sublibraries `sublib1` and `sublib1`
 * `app`: folder containing apps that use the library, `subapp1` and `subapp2`
+* `test`: unit tests, generates executable test file using [Catch2](https://github.com/catchorg/Catch2)
 
 To compile:
 
@@ -25,3 +26,4 @@ Other scripts:
 
 * `compile.sh`: run commands to compile
 * `clean.sh`: deletes all contents of build folder
+* `run_tests.sh`: run unit tests
