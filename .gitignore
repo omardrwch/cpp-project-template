@@ -49,3 +49,6 @@ _deps
 
 # Build folder
 build/
+
+# Documentation folder
+docs/
