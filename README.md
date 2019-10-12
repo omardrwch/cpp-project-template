@@ -55,7 +55,7 @@ Tags in Doxyfile changed from default (more suggestions can be found in [this tu
 * `RECURSIVE = YES`
 * `GENERATE_TREEVIEW = YES`
 * `HAVE_DOT = NO`
-`
+
 Generating the documentation:
 
 ```
