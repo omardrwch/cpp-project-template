@@ -10,3 +10,6 @@ project(myproject)
 add_subdirectory(app)
 add_subdirectory(lib)
 add_subdirectory(test)
+
+
+# Useful link: https://stackoverflow.com/questions/8304190/cmake-with-include-and-source-paths-basic-setup
